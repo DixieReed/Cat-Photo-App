@@ -32,25 +32,25 @@ List Items and Nesting:  <br/>
 <br />
 <br />
 Special Elements such as Figure and attributes like figcap:  <br/>
-<img src="https://imgur.com//AvzYRZx.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
+<img src="https://imgur.com//BlKfHfs.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
 <br />
 Forms and form actions:  <br/>
-<img src="https://imgur.com//zPNnu95.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
+<img src="https://imgur.com//XOcXcta.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
 <br />
 Label buttons and Inputs:  <br/>
-<img src="https://imgur.com/JqGJPzj.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
-<br />
-Attribues such as Type, Value, ID, Name:  <br/>
-<img src="https://imgur.com/BlKfHfs.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
-<br />
-Legends and Fieldsets:  <br/>
-<img src="https://imgur.com/XOcXcta.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
-<br />
-Relationship between id and for attributes:  <br/>
 <img src="https://imgur.com/fiSlh2x.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
 <br />
-Housekeeping such as HEaders, Footers, DOCTYPE, and html elements:  <br/>
+Attribues such as Type, Value, ID, Name:  <br/>
 <img src="https://imgur.com/9AgNDkK.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
+<br />
+Legends and Fieldsets:  <br/>
+<img src="https://imgur.com/zPNnu95.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
+<br />
+Relationship between id and for attributes:  <br/>
+<img src="https://imgur.com/JqGJPzj.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
+<br />
+Housekeeping such as HEaders, Footers, DOCTYPE, and html elements:  <br/>
+<img src="https://imgur.com/AvzYRZx.png" height="80%" width="80%" alt="Add upload option and T&C + Submit"/>
 <br />
 
 <p align="center" text="italic"><i>Thank you to<a href="https://www.freecodecamp.org/"> FreeCodeCamp.org</a> for an amazing tutorial.</i></p>
