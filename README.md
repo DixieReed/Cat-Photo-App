@@ -20,7 +20,7 @@ Start Page: <br/>
 <br />
 <br />
 Form Basic Element Structures:  <br/>
-<img src="=https://imgur.com/dHzyfpS.png" height="80%" width="80%" alt="Addition of Background Styling and Fieldsets for input data"/>
+<img src="https://i.imgur.com/dHzyfpS.png" height="80%" width="80%" alt="Addition of Background Styling and Fieldsets for input data"/>
 <br />
 <br />
 Add Photos: <br/>
